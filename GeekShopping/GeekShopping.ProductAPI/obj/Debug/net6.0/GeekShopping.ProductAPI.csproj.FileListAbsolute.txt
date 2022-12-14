@@ -1,5 +1,6 @@
 C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\libman.json
 C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.exe
 C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.deps.json
 C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\GeekShopping.ProductAPI.runtimeconfig.json
@@ -42,4 +43,10 @@ C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShop
 C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.pdb
 C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\GeekShopping.ProductAPI.genruntimeconfig.cache
 C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\obj\Debug\net6.0\ref\GeekShopping.ProductAPI.dll
-C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\libman.json
+C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mcamargo\Documents\Estudos\Microservices\Microservices-DotNet6\GeekShopping\GeekShopping.ProductAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll

@@ -1,16 +1,20 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\mcamargo\\Documents\\Estudos\\Microservices\\Microservices-DotNet6\\GeekShopping\\GeekShopping.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\GeekShopping.Web.bundle.scp.css",
-      "PackagePath": "staticwebassets\\GeekShopping.Web.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\mcamargo\\Documents\\Estudos\\Microservices\\Microservices-DotNet6\\GeekShopping\\GeekShopping.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\mcamargo\\Documents\\Estudos\\Microservices\\Microservices-DotNet6\\GeekShopping\\GeekShopping.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mcamargo\\Documents\\Estudos\\Microservices\\Microservices-DotNet6\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\mcamargo\\Documents\\Estudos\\Microservices\\Microservices-DotNet6\\GeekShopping\\GeekShopping.Web\\wwwroot\\images\\geek_shopping.png",
+      "PackagePath": "staticwebassets\\images\\geek_shopping.png"
     },
     {
       "Id": "C:\\Users\\mcamargo\\Documents\\Estudos\\Microservices\\Microservices-DotNet6\\GeekShopping\\GeekShopping.Web\\wwwroot\\js\\site.js",
